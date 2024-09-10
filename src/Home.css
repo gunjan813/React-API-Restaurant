@@ -1,0 +1,35 @@
+   
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Lugrasimo", cursive;
+ 
+ }
+.bg{
+    /* background-size: 100% 100%; */
+    
+    width: 800%;
+    height: 800px;
+    
+
+   }
+   .head1{
+    position: absolute;
+    top: 350px;
+    left: 250px;
+    font-size: 100px;
+
+   }
+   #nav{
+    background-image:linear-gradient(to right, #7dc6d6, #ff5858); 
+   }
+   .card{
+    background-color: black;
+   color: gold;
+
+   }
+   .gunj{
+    background-color: black;
+   }
+  
